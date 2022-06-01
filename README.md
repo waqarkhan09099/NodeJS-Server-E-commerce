@@ -1,2 +1,2 @@
-# NodeJS-Server-E-commerce
- Node js server for Ecommerce Websites
+# Mern-Ecommerce-Project
+ this project is well organize with full stack development
